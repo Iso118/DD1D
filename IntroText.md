@@ -1,12 +1,13 @@
-# Deep Dark 100 Dice
-_Before you step past the threshold of civilization, your soul must be indexed..._
+# Welcome to Deep Dark 100 Dice
+_You need to know where to begin if you hope to survive..._
 
 ### Preparing Your Journey
-1. **Inscribe Your Identity**: Navigate to the **Character Creation** tab and fill in your details. Lock your name in stone once you accept your past.
-2. **Calibrate Your Vitality**: Your starting pool contains exactly `100 d6`. This is your timeline, your breath, and your defense. 
+1. **Build Your Identity**: Navigate to the **Character Creation** tab and fill in your details. Write a sentence or two **at most** for each prompt. Once you're satisfied, press "Set in Stone", that way you'll know how and when the Deep Woods begin to change you.
+2. **Steel Your Bones**: IRL, you must bring exactly `100 d6` to the table in order to play. On the wires and tubes of the internet, this digital companion provides the dice, but it's still good to confirm this. Navigating to the **Dice Pool** tab and look at "All that remains of you". This is your timeline, your breath, your soul. Click "Update Pool" if you have less than 100 dice. 
 
 ### The Core Loop
-* **Cast Dice**: When confronted by an anomaly, select your volume of dice and cast. Watch where the fates throw them.
-* **Watch Your Becoming**: Accumulating marks will distort your flesh. If you fail a fate roll under your filled boxes, you must choose what you become...
+* **Cast Dice**: When the outcome of an action is unclear, select your volume of dice and cast them to the wind. The GM (Green Man) will let you know how many *Good* results you need, but the standard is just one. Do not be frivolous with your dice - once cast, they belong to the GM. **You start with 100, and 100 is all you get.**
+* **Trade Yourself Away**: If you're running low on dice, you may need to strike a bargain with an otherwordly creature. The various denizens of the Deep Woods will gladly refill your dice pool, as long as you're willing to give up some of the details that make you YOU. Don't bargain away too much of yourself, or you may forget what brought you to the Deep Woods in the first place.
+* **Mind What You Become**: As you tramp through the Deep Woods, your journey will change you. Rolling a *Becoming* value denotes experiencing a "Transformative Moment", and requires you to note the suit of the room it happened in. Eventually, you will fail a Becoming roll, and then you must choose what you become...
 
-_May the mirklight show you mercy._
+_May you find what you're looking for, and get what you deserve._
