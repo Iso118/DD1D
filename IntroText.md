@@ -10,4 +10,11 @@ _You need to know where to begin if you hope to survive..._
 * **Trade Yourself Away**: If you're running low on dice, you may need to strike a bargain with an otherwordly creature. The various denizens of the Deep Woods will gladly refill your dice pool, as long as you're willing to give up some of the details that make you YOU. Don't bargain away too much of yourself, or you may forget what brought you to the Deep Woods in the first place.
 * **Mind What You Become**: As you tramp through the Deep Woods, your journey will change you. Rolling a "Becoming" value denotes experiencing a "Transformative Moment", and requires you to note the suit of the room it happened in. Eventually, you will fail a Becoming roll, and then you must choose what you become...
 
+### Want to GM?
+1. **Ascend Beyond Humanity**: Click "Update Pool", then "Enter GM Mode" to assume the role of the Green Man, the game's facilitator and antagonist. There are more detailed instructions about GMing when you enter GM Mode.
+2. **Build the Map**: If you're playing IRL, you'll also need a deck of tarot cards to help you build a unique map of the Deep Woods. In the meantime, you can use "Inscribe Map Deck" on the **Map Generator** tab while using the digital companion.
+
+## When You Want to Take a Break
+Click the "Generate Save Link" button above the tabs and copy the link. Pasting this unique URL will load your game right where you left off.
+
 _May you find what you're looking for, and get what you deserve._
