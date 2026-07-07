@@ -15,6 +15,6 @@ _You need to know where to begin if you hope to survive..._
 2. **Build the Map**: If you're playing IRL, you'll also need a deck of tarot cards to help you build a unique map of the Deep Woods. In the meantime, you can use "Inscribe Map Deck" on the **Map Generator** tab while using the digital companion.
 
 ### When You Want to Take a Break
-Click the "Generate Save Link" button above the tabs and copy the link. Pasting this unique URL will load your game right where you left off.
+* Click the "Generate Save Link" button above the tabs and copy the link. Pasting this unique URL will load your game right where you left off.
 
 _May you find what you're looking for, and get what you deserve._
