@@ -32,4 +32,4 @@ Occasionally, players will be instructed to edit [WHAT YOU BECOME], but very rar
 <br><br>
 Once a character Becomes something new, those details will automatically be moved to the characters [WHAT YOU BECOME] prompt (IRL ONLY - you'll have to do this part yourself!). This text is relatively IMMUTABLE, i.e. almost no other part of the game will try to change this, because it has mechanical consequences. Once a character Becomes something, it cannot Become anything else!
 <br><br>
-_Don't try to be everything, just try to be YOU. The more you are, the more the Deep Woods will change you._
+_Don't try to be everything. The more you are, the more they can change you._
