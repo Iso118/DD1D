@@ -32,5 +32,5 @@ Once the bargain is struck, the bargaining player gains as many dice as they ear
 
 ### The Center Card
 With luck, one or more players will make it to the last card of the Map Deck, the center of the Deep Woods. Here, the GM is responsible for making good on each remaining player's [WHAT YOU NEED] prompt. Over the course of the game, details within these prompts may have shifted - it's important that the GM only honors what is written on the page, not what used to be there! While exploring, players will have had opportunities to learn more about the real nature of what they're after, as there are many different ways to achieve something vague like "fame" or "wealth", and even if they had a very specific goal in mind, the Deep Woods is capricious and wont to bend the nature of reality. Every Scene in this Location should deal with [WHAT YOU NEED] from one specific player.
-
+<br><br>
 _Tread lightly, everything around you is hungry and flesh is but one source of nourishment._
