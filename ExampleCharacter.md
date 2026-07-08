@@ -23,7 +23,7 @@ As play progresses, players will need to edit their character sheets in specific
 * **[BIND]**: The situation asks a player to add a new detail to their character sheet, and players will be told the _exact word(s)_ they need to bind. Do not highlight text, simply place the cursor in a free area and _carve new fate_, then enter the exact words before you _confirm your fate_.
 * **[CHANGE]**: In this case, players must replace one or more words on their character sheet with new ones. Sometimes the situation will call for an explicit replacement (a _this for that_ prompt), but other times players can choose any new detail to replace the old. Just as before, highlight the string of text you want to change, then _carve new fate_ and enter the new value before you _confirm new fate_.
 * **"Something" / "Not"**: Sometimes, players will be asked to edit "something", which means they are free to pick any prompt on their character sheet as a place to make the required change. Other times, players will be instructed with the format "not [PROMPT]", which means they can select any other prompt as the place to make the required change.
-<br><br>
+<br>
 
 If the player is making a change to their character sheet as part of a Bargain with a Patron, they must remember to enter a number of *dice claimed in exchange* while they *carve new fate*. It would be foolish to bargain away bits of you for nothing in return.
 
