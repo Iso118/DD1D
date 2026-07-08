@@ -13,6 +13,9 @@ Many have let this enticing prospect dull their minds to the Deep Woods’ threa
 
 Bargains, they say, are all that matter in the Deep Woods. Those who enter, foolishly or bravely, must be prepared to pay dearly if they wish to extract the miraculous from that dark and terrible place. The Deep Woods are ancient, and primal, and ever hungry for more. Perhaps you may be the first to claim a wish and return safely. Perhaps.
 
+### For More Help Along the Way
+When you click a tab in the app it will bring you to a new section. Click it again to open the *Information Modal* for more details about that section and how it's used to play the game. If you have any feedback or questions, reach out at gothiquegames@gmail.com. 
+
 ### Preparing Your Journey
 1. **Build Your Identity**: Navigate to the **Character Creation** tab and fill in your details. Write a sentence or two **at most** for each prompt. Once you're satisfied, press "Set in Stone", that way you'll know how and when the Deep Woods begin to change you.
 2. **Steel Your Bones**: IRL, you must bring exactly `100 d6` to the table in order to play. On the wires and tubes of the internet, this digital companion provides the dice, but it's still good to confirm this. Navigating to the **Dice Pool** tab and look at "All that remains of you". This is your timeline, your breath, your soul. Click "Update Pool" if you have less than 100 dice. 
