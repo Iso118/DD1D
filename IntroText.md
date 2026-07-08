@@ -31,5 +31,5 @@ When you click a tab in the app it will bring you to a new section. Click it aga
 
 ### When You Want to Take a Break
 * Click the "Generate Save Link" button above the tabs and copy the link. Pasting this unique URL will load your game right where you left off.
-
+<br><br>
 _May you find what you're looking for, and get what you deserve._
