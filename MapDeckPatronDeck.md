@@ -18,7 +18,7 @@ In addition to the Location details, the digital companion provides ante conditi
 
 ### Scenes & Anteing
 Once a Location has been defined, players take a more active role in telling the story by entering Scenes. Players should agree on the kinds of things they want to do while in a Location, and propose Scenes about those actions one at a time to the GM. The GM will let the players know which Scene they're about to take part in, then ask the players to **ante some dice** from their dice pool. Players can ante any amount of dice to take part in the scene, `including 0 dice`, but only those who ante more than 0 may attempt tasks *with wild abandon*, more on this in the **Dice Roller Instructions**. After the GM collects the antes, players and the GM work together to tell the story, explore the space, and resolve conflict.
-
+<br><br>
 For exactly one Scene in each Location, the GM will let players know that it is a *defining moment* within the game, and will explain the **ante conditions** to everyone before they ante. These conditions impose specific outcomes for each player depending on how many dice they offer for the ante. A "number-" label means antes of that value or lower, a "number+" means antes of that number or greater, and if there are values that aren't mentioned then players who make those antes will not have any outcomes imposed on them. If the players do not offer a Scene that the GM feels would make an appropriate defining moment, the GM may offer their own scene after all others have been completed.
 
 ### Bargaining With Patrons
