@@ -13,4 +13,6 @@ Above each prompt on the Character Sheet is a small description about the kinds 
 6. **What You Were**: `An apprentice arrow-smith and mischievous child.` *(These can encompass broader groups of talents, but should be limited to just one or two things. Even the elderly only have time for so many occupations in a single life. These kennings serve as a short-hand for what kinds of problems you feel equipped to take on, and which would be hopelessly outside of your lived experience.)* 
 7. **What You Become**: `LEFT BLANK` *(This field will be populated as you play. No one knows what they'll become until they become it!).*
 
+### Changing Details
+
 _Don't try to be everything, just try to be YOU. The more you are, the more the Deep Woods will change you._
