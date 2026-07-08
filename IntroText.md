@@ -5,6 +5,13 @@ _You need to know where to begin if you hope to survive..._
 Deep Dark 100 Dice (DD1D) is a rules-lite horror-ish survival TTRPG, and this is its digital companion. You can use this app to facilitate every part of the game if you don't have the necessary resources to play IRL. That said, DD1D is all about the *vibes*, and creating spooky, sorrowful, real moments with friends - the whole affair is much more fun in person. Read on for more details about the game.
 
 ### The Setting
+DD1D takes place in a quiet hamlet stuck in a medieval era within a world of fae and fantasy. On the outskirts of this village, at the boundary edge of the Duchy, there is a thick and twisted woodland, so dense and old that it is hard to see what lies within. The townspeople know this place as the `Deep Woods`. 
+
+The Deep Woods are where no good thing has ever happened, and every kind of mischief ends in tragedy, or so say the elders of the village. There is, however, another kind of tale. Though not spoken of often, there is a single resolute story of hope, and wonder. Whoever can traverse to the core of the Deep Woods, and can sip from the crystalline pool that marks its center, will have their wildest wishes granted.
+
+Many have let this enticing prospect dull their minds to the Deep Woods’ threats, and have entered in spite of them, never to be seen again. Some say that beings from the time-long-before-man entered the Deep Woods in the same way, and remain trapped within the trees even to this day, until they can bargain for their freedom.
+
+Bargains, they say, are all that matter in the Deep Woods. Those who enter, foolishly or bravely, must be prepared to pay dearly if they wish to extract the miraculous from that dark and terrible place. The Deep Woods are ancient, and primal, and ever hungry for more. Perhaps you may be the first to claim a wish and return safely. Perhaps.
 
 ### Preparing Your Journey
 1. **Build Your Identity**: Navigate to the **Character Creation** tab and fill in your details. Write a sentence or two **at most** for each prompt. Once you're satisfied, press "Set in Stone", that way you'll know how and when the Deep Woods begin to change you.
