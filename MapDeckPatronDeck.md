@@ -9,6 +9,7 @@ DD1D is a "dungeon crawl" of sorts. Players go from room to room, solving proble
 3. Deal out the nine Major Arcana into four piles, leaving the last card in reserve.
 4. Deal out one of the four Minor Arcana cards onto each of the four piles.
 5. Shuffle each of the four piles, then stack them up and place those 12 cards on top of the last card in reserve.
+<br>
 
 You should now have a stack of 13 cards, with one Minor Arcana card every 3 cards or so. This is the Map Deck that you'll use for this game, but not others. The Deep Woods shift and transmute in unpredictable ways, so no two games are the same. Shuffle all the tarot cards you didn't use to build the Map Deck, this is now your **Patron Deck**. Below are details about how each deck will be used, how players can navigate the Deep Woods, and the general flow of the game. 
 
