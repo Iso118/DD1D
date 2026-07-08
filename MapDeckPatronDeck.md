@@ -9,6 +9,7 @@ Deep Dark 100 Dice (DD1D) is modeled after a dungeon crawl, and at the table IRL
 4. Deal out one of the four Minor Arcana cards onto each of the four piles.
 5. Shuffle each of the four piles, then stack them up and place those 12 cards on top of the last card in reserve.
 <br><br>
+
 You should now have a stack of 13 cards, with one Minor Arcana card every 3 cards or so. This is the Map Deck that you'll use for this game, but not others. The Deep Woods shift and transmute in unpredictable ways, so no two games are the same. 
 
 ### Locations 
