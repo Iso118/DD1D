@@ -32,4 +32,4 @@ Once the bargain is struck, the bargaining player gains as many dice as they ear
 
 ### The Center Card
 
-_Tread lightly, everything around you is hungry and flesh is but one source of nourishment here._
+_Tread lightly, everything around you is hungry and flesh is but one source of nourishment._
