@@ -3,6 +3,7 @@ _You can never step into the same forest twice; it has since changed, or you hav
 
 ## Building the Map Deck
 DD1D is a "dungeon crawl" of sorts. Players go from room to room, solving problems and fighting with things that want to eat them. At the table IRL, the "dungeon rooms" would be laid out like the hours of a clock using tarot cards from a **Map Deck**. The digital companion constructs the Map Deck automatically, but if you'd like to play at home you can build your own by following these instructions:
+<br>
 1. Put nine random Major Arcana cards into a face-down pile and shuffle.
 2. Put one random card from each Minor Arcana suit into a second face-down pile and shuffle.
 3. Deal out the nine Major Arcana into four piles, leaving the last card in reserve.
