@@ -1,6 +1,11 @@
 # Welcome to Deep Dark 100 Dice
 _You need to know where to begin if you hope to survive..._
 
+## What Is This, Where Am I?!
+Deep Dark 100 Dice (DD1D) is a rules-lite horror-ish survival TTRPG, and this is its digital companion. You can use this app to facilitate every part of the game if you don't have the necessary resources to play IRL. That said, DD1D is all about the *vibes*, and creating spooky, sorrowful, real moments with friends - the whole affair is much more fun in person. Read on for more details about the game.
+
+### The Setting
+
 ### Preparing Your Journey
 1. **Build Your Identity**: Navigate to the **Character Creation** tab and fill in your details. Write a sentence or two **at most** for each prompt. Once you're satisfied, press "Set in Stone", that way you'll know how and when the Deep Woods begin to change you.
 2. **Steel Your Bones**: IRL, you must bring exactly `100 d6` to the table in order to play. On the wires and tubes of the internet, this digital companion provides the dice, but it's still good to confirm this. Navigating to the **Dice Pool** tab and look at "All that remains of you". This is your timeline, your breath, your soul. Click "Update Pool" if you have less than 100 dice. 
