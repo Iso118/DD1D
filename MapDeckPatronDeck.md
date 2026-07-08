@@ -24,7 +24,12 @@ Once a Location has been defined, players take a more active role in telling the
 For exactly one Scene in each Location, the GM will let players know that it is a *defining moment* within the game, and will explain the **ante conditions** to everyone before they ante. These conditions impose specific outcomes for each player depending on how many dice they offer for the ante. A "number-" label means antes of that value or lower, a "number+" means antes of that number or greater, and if there are values that aren't mentioned then players who make those antes will not have any outcomes imposed on them. If the players do not offer a Scene that the GM feels would make an appropriate defining moment, the GM may offer their own scene after all others have been completed.
 
 ### Bargaining With Patrons
+Eventually, players will look at their dice pools and want for more. When that time comes, they may attempt to bargain with a Patron using the **Patron Deck**. Flip three cards from the top of the Patron Deck, and let the bargaining player inspect their options. Lower values (ace, 2, 3, etc.) typically represent Patrons that are weaker, but more eager to bargain. They can offer fewer resources, but know exactly what they want from the player. The exchange is more clear cut, and players know what they're getting in the moment. Higher values (court cards) represent extremely powerful Patrons, Fae kings and queens or elemental prefects, who do not need anything from mortals but are rather bored. Bargaining with a powerful Patron often means offering a committment rather than a single thing - a favor to be called in later. It can be hard to know what you're selling, even if what you're earning is very valuable. Finally, Major Arcana cards represent deific Patrons - eldritch beings of unknowable power and inscruitible whims. Bargaining with these kinds of beings often means becoming wyrded and morphed in terrible ways. You may come away with a newly refreshed dice pool, but the cost will often set the player on a brand new course.
+<br><br>
+This part of the game is relatively free-form. The GM and bargaining player work together to find a dice amount and payment that seems appropriate for the Patron's level. Often, players will need to change details on their character sheet - more on this in the **Character Sheet Instructions**. 
+<br><br>
+Once the bargain is struck, the bargaining player gains as many dice as they earned from the *Cache Pool* and makes the necessary modifications before play continues. Players cannot attempt to bargain while Combat is happening, and may only bargain once per location.
 
-### The Center
+### The Center Card
 
 _Tread lightly, everything around you is hungry and flesh is but one source of nourishment here._
