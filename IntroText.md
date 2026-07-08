@@ -6,7 +6,7 @@ Deep Dark 100 Dice (DD1D) is a rules-lite horror-ish survival TTRPG, and this is
 
 ### The Setting
 DD1D takes place in a quiet hamlet stuck in a medieval era within a world of fae and fantasy. On the outskirts of this village, at the boundary edge of the Duchy, there is a thick and twisted woodland, so dense and old that it is hard to see what lies within. The townspeople know this place as the `Deep Woods`. 
-<br>
+<br><br>
 The Deep Woods are where no good thing has ever happened, and every kind of mischief ends in tragedy, or so say the elders of the village. There is, however, another kind of tale. Though not spoken of often, there is a single resolute story of hope, and wonder. Whoever can traverse to the core of the Deep Woods, and can sip from the crystalline pool that marks its center, will have their wildest wishes granted.
 
 Many have let this enticing prospect dull their minds to the Deep Woods’ threats, and have entered in spite of them, never to be seen again. Some say that beings from the time-long-before-man entered the Deep Woods in the same way, and remain trapped within the trees even to this day, until they can bargain for their freedom.
