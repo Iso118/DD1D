@@ -15,7 +15,7 @@ You should now have a stack of 13 cards, with one Minor Arcana card every 3 card
 
 ### Locations 
 Each tarot card provides vague details about a single locale or biome within the Deep Woods. The digital companion provides these details automatically, or there is an almanac for IRL play. Before play beings, its up to everyone involved, GM and players alike, to set an intensity level that everyone feels comfortable with. DD1D can be a gentle, sorrowful PG experience, or an eldritch nightmare R-rated experience - the details are vague so that the GM can fill in the specifics according to the level of horror everyone has agreed to. The GM isn't the only one filling in the blanks - players do that as well - but they are the one who initially sets the stage. Flip the first card off the top of the Map Deck and place it at 12 o'clock - this is the first Location players will explore (IRL ONLY - if the first Location is a Minor Arcana card, flip another card and put the Minor Arcana back on top of the Map Deck). Only when players have finished exploring a Location is the next card flipped from the Map Deck; players should not know the general layout of the Deep Woods until they reach the center.
-
+<br><br>
 In addition to the Location details, the digital companion provides ante conditions and a suit for each card - more on these details later. For now, just make sure you're setting an appropriate tone, giving players enough detail to entice them to explore, and weaving a story that makes sense for everyone at the table.
 
 ### Scenes & Anteing
