@@ -8,6 +8,7 @@ Every time you make oppose your surroundings in DD1D, you pay with a little bit 
 
 ### Measuring Success
 When the outcome of an action is uncertain, players will roll some dice. Dice have three possible outcomes:
+<br>
 * **GOOD**: The result is a 4, 5, or 6. Good results are tallied and if there are enough to meet the threshold set by the GM then the result of the player's attempt ultimately achieves what they're after.
 * **BAD**: The result is a 1 or a 2. Bad results do not stop players from achieving their goals, but they change an unmitigated success to a "yes, but..." when rolled, and if a player rolls more bad results than good results then they suffer dearly from their attempt. In the latter case, the GM will [BIND] a new detail to the player's character sheet to represent their folly. More about that in the **"Character Sheet Instruction"** tab.
 * **BECOMING**: The result is a 3. If any number of 3s are rolled, the player must fill in one of the **Transformative Moments** boxes below the dice results. This occurs before the result of the player's attempt is announced. What this means, and how to proceed, are both described in greater detail in the Character Sheet instructions.
@@ -26,7 +27,7 @@ If a character wants to try something wholly outside of their personal experienc
 
 ### Opposed Conflict
 In some circumstances, the characters will face *challengers* - NPCs controlled by the GM or sometimes other characters. In these circumstances, the threshold for success is more fluid and is wrapped up in a tug-of-war between the two parties. This happens most often during Combat, but not always. The aggressor starts by rolling any number of dice, and then tallies their Good and Bad results as normal, but this time they subtract the Bad from the Good. If they have any Good results remaining, they successfully challenge the other party - whether by striking them, or imposing their will on them, etc. - otherwise they fail right from the start and suffer dearly for their attempt. This is only the beginning, however, as the opposing party now gets a chance to respond. They must now roll as many Good results as the aggressor in order to stay in the fight. If they do, then they successfully avoid the aggressor's hit and the fight continues with the aggressor now trying to roll as many Good results as the defender has just rolled. If the defender fails, then they've lost the fight and suffer dearly for it (often times, and NPC will die from losing a fight, but a PC will just become injured).
-
+<br><br>
 Fighting in this way may go on as long as the parties continue to oppose each-other, but any party may stop rolling at any time to forfeit the conflict. Remember, you have limited dice, so sometimes it's just not worth it to fight back, especially if the opposing party is not a genuine threat. Also remember that you may roll as many dice as you wish for any conflict, so if you want the fight to be over quickly, consider escalating your force at a pivotal moment.
 
 ### We Give And Take Our Dice
