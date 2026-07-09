@@ -38,7 +38,7 @@ Fighting in this way may go on as long as the parties continue to oppose each-ot
 
 ### We Give And Take Our Dice
 In DD1D, you can only overcome challenges, or oppose others, if you have dice to cast - this includes the GM, who starts the game with `0 dice`. Instead of starting with a pool, the GM eats (gains) the dice that players cast and ante. Every time a player joins a Scene, or attempts to overcome a challenge, they are feeding the GM resources to oppose them in the future. When the GM uses dice, however, they are sent to either the **Cache Pool**, a reserve that players can pull from when they bargain for more dice or encounter a Cache Location, or they are sent to the **Void Pool** - essentially, they are removed from the game entirely.
-
+<br><br>
 When a GM has no dice in their pool, they cannot set a threshold of difficulty when a player attempts to resolve a conflict (the default threshold is 1 Good result). When a *player* has no dice in their pool, their character can no longer maintain their sense of self. They become subsumed by the Deep Woods, they `lose autonomy and become an antagonist alongside the GM`. The player will assist the GM with storytelling and dice rolling until the game is over or they're revived via deus ex machina.
 
 ### Changing the Pool Without Casting
