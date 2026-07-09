@@ -13,6 +13,7 @@ Dice have three possible outcomes:
 * **BECOMING**: The result is a 3. If any number of 3s are rolled, the player must fill in one of the **Transformative Moments** boxes below the dice results. This occurs before the result of the player's attempt is announced. What this means, and how to proceed, are both described in greater detail in the Character Sheet instructions.
 
 
+
 ### Unopposed Conflict
 
 ### Opposed Conflict
@@ -25,4 +26,4 @@ Dice have three possible outcomes:
 
 <br>
 
-_When you spend yourself you get what you pay for, but not every afront deserves a response._
+_When you spend yourself you get what you pay for, so spend wisely._
