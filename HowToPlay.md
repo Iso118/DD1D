@@ -43,6 +43,6 @@ When a GM has no dice in their pool, they cannot set a threshold of difficulty w
 
 ### Changing the Pool Without Casting
 From time to time, players will need to remove or add dice to their pool without casting them. To do this in the digital companion, use the "Update pool" button to add dice back into the pool (used when recovering dice from a Cache Location), or just use the "Ante Dice" button to remove dice without rolling them (used when casting with Wild Abandon).  
-<br>
+<br><br>
 
 _When you spend yourself you get what you pay for, so spend wisely._
