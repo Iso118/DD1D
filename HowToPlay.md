@@ -8,7 +8,7 @@ Every time you make oppose your surroundings in DD1D, you pay with a little bit 
 
 ### Measuring Success
 When the outcome of an action is uncertain, players will roll some dice. Dice have three possible outcomes:
-<br>
+<br><br>
 * **GOOD**: The result is a 4, 5, or 6. Good results are tallied and if there are enough to meet the threshold set by the GM then the result of the player's attempt ultimately achieves what they're after.
 * **BAD**: The result is a 1 or a 2. Bad results do not stop players from achieving their goals, but they change an unmitigated success to a "yes, but..." when rolled, and if a player rolls more bad results than good results then they suffer dearly from their attempt. In the latter case, the GM will [BIND] a new detail to the player's character sheet to represent their folly. More about that in the **"Character Sheet Instruction"** tab.
 * **BECOMING**: The result is a 3. If any number of 3s are rolled, the player must fill in one of the **Transformative Moments** boxes below the dice results. This occurs before the result of the player's attempt is announced. What this means, and how to proceed, are both described in greater detail in the Character Sheet instructions.
