@@ -3,7 +3,7 @@ _Become the Deep Woods; everyone does eventually..._
 
 ## Decide on a Level of Dread
 
-## You Share EVERYTHING With the Players
+### You Share EVERYTHING With the Players
 
 ### Where Dice Go to Die
 
