@@ -14,7 +14,11 @@ Every time a player antes a dice, it ends up in the GM's dice pool. Every time a
 However, the GM spends dice out of their pool in the same way, and those dice must flow elsewhere too...
 <br><br>
 ### Setting Conflict Difficulty
-When the GM wants to put up an obstacle for the players, or believes the Deep Woods would respond in a supernatural way, they will need to spend dice from their pool to set an increased diffculty level for the players. Unlike the players, the GM is not required to roll dice to determine success or failure for an unopposed conflict - they represent the Deep Woods, a force as old as time, what would failure for such a thing even look like? Instead, the GM chooses a number of dice from their pool to represent the number of **Good results** a player needs in order to achieve their goals during conflict. 
+When the GM wants to put up an obstacle for the players, or believes the Deep Woods would respond in a supernatural way, they will need to spend dice from their pool to set an increased diffculty level for the players. Unlike the players, the GM is not required to roll dice to determine success or failure for an unopposed conflict - they represent the Deep Woods, a force as old as time, what would failure for such a thing even look like? Instead, the GM chooses a number of dice from their pool to represent the number of **Good results** a player needs in order to achieve their goals during conflict.
+* **Easy Threshold**:
+* **Moderate Threshold**:
+* **Hard Threshold**:
+* **Impossible Threshold**:
 <br><br>
 When engaging with players in an opposed conflict, the GM will roll dice as normal, however the GM also counts a **Becoming result** as a Good result. When engaged in opposed conflict with the GM, the players' dice do not funnel into the GM's dice pool until the conflict is over. While rolling back and forth, players should hold their spent dice in a pile separate from their own dice pools **and** separate from the GM's spent dice.
 <br><br>
