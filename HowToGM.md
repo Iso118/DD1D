@@ -16,18 +16,23 @@ However, the GM spends dice out of their pool in the same way, and those dice mu
 ### Setting Conflict Difficulty
 When the GM wants to put up an obstacle for the players, or believes the Deep Woods would respond in a supernatural way, they will need to spend dice from their pool to set an increased diffculty level for the players. Unlike the players, the GM is not required to roll dice to determine success or failure for an unopposed conflict - they represent the Deep Woods, a force as old as time, what would failure for such a thing even look like? Instead, the GM chooses a number of dice from their pool to represent the number of **Good results** a player needs in order to achieve their goals during conflict. When seeting these difficulties, think of them in terms of **percentage of a total pool**, and know that a Player who fully respects the odds of the dice will be inclined to spend **twice as many dice as the threshold set**. Below are some rough guidlines for setting an unopposed difficulty.
 <br><br>
-* **Easy Threshold**: For conflicts that a human could reasonably puzzle out or achieve on their own if left unbothered, a threshold of **~3 Good results** is appropriate (under 10% of their total pool).
-* **Moderate Threshold**: For conflicts that will be challenging for individuals, regardless of skill or preparation, a threshold of **5-8 Good results** is correct (between 10-20% of their total pool).
-* **Hard Threshold**: For challenges beyond the scope of human lives, that require players to adapt in transformative ways, a threshold of **10-12 Good results** shows the players how dire the risks are (20-25% of their dice).
+* **Easy Threshold**: For conflicts that a human could reasonably puzzle out or achieve on their own if left unbothered, a threshold of **~3 Good results** is appropriate (~10% of pool).
+* **Moderate Threshold**: For conflicts that will be challenging for individuals, regardless of skill or preparation, a threshold of **5-8 Good results** is correct (10-20% of pool).
+* **Hard Threshold**: For challenges beyond the scope of human lives, that require players to adapt in transformative ways, a threshold of **10-12 Good results** shows the players how dire the risks are (20-25% of pool).
 * **Impossible Threshold**: Any challenges that lay well beyond the limits of humanity, where players transcend from mortals to the stuff of myth and legends, a GM could set a threshold of **15 or more Good results**. These kinds of difficulties are best kept in reserve, and fielded toward the end of the game, or when players have reached a narrative pinacle, as they could only be attempted 1-3 times per game.
-<br><br>
+<br>
 
 When engaging with players in an opposed conflict, the GM will roll dice as normal, however the GM also counts a **Becoming result** as a Good result. When engaged in opposed conflict with the GM, the players' dice do not funnel into the GM's dice pool until the conflict is over. While rolling back and forth, players should hold their spent dice in a pile separate from their own dice pools **and** separate from the GM's spent dice.
 <br><br>
 After the GM uses any dice from their pool, for opposed or unopposed conflicts, they must roll the dice and send them to the next appropriate pool...
 <br><br>
 ### Where Dice Go to Die
-After
+To determine where spent GM dice end up, the GM rolls all selected dice and moves them according to the below results:
+<br><br>
+* **Bad Result**: All dice landing on 1-2 are sent to the _Void Pool_. These dice represent the entropy of resources. **They are permanently out of the game.**
+* **Becoming Result**: All dice landing on 3 are returned to the GM's dice pool, they can be used again.
+* **Good Result**: All dice landing on 4-6 are sent to the _Cache Pool_. These dice are resources that can be recovered by the players, for instance when they enter a Location defined by a Minor Arcana card, or when they bargain with a Patron.
+<br>
 
 ### Bargaining & Ad-Libbing
 
