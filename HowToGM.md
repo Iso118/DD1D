@@ -18,7 +18,7 @@ When the GM wants to put up an obstacle for the players, or believes the Deep Wo
 <br><br>
 When seeting these difficulties, think of them in terms of **percentage of a total pool**, and know that a Player who fully respects the odds of the dice will be inclined to spend **twice as many dice as the threshold set**. Also remember that players may accept worse odds if they're not attached to the outcomes, and that after some time players will develop special abilities as they Become new things. Below are some rough guidlines for setting an unopposed difficulty.
 <br><br>
-* **Easy Threshold**: For conflicts that a human could reasonably puzzle out or achieve on their own if left unbothered, a threshold of **~3 Good results** is appropriate (~10% of pool).
+* **Easy Threshold**: For conflicts that a human could likely puzzle out or achieve on their own if left unbothered, a threshold of **~3 Good results** is appropriate (~10% of pool).
 * **Moderate Threshold**: For conflicts that will be challenging for individuals, regardless of skill or preparation, a threshold of **5-8 Good results** is correct (10-20% of pool).
 * **Hard Threshold**: For challenges beyond the scope of human lives, that require players to adapt in transformative ways, a threshold of **10-12 Good results** shows the players how dire the risks are (20-25% of pool).
 * **Impossible Threshold**: Any challenges that lay well beyond the limits of humanity, where players transcend from mortals to the stuff of myth and legends, a GM could set a threshold of **15 or more Good results**. These kinds of difficulties are best kept in reserve, and fielded toward the end of the game, or when players have reached a narrative pinacle, as they could only be attempted 1-3 times per game.
