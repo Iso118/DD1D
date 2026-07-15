@@ -43,7 +43,9 @@ As noted above, players will rely on Cache Locations (any location represented b
 <br><br>
 Generally, the maximum number of dice a player could hope to bargain for should scale from low to high with the number on the card (aces are low, up to kings). Similarly, the price a player will need to pay should scale in a similar fashion, along with the ambiguity of the ask. Low powered Fae will have fewer resources to offer the players, but will also have immediate and clean-cut desires themselves. Weaker creatures _want_ things a lot more than powerful ones, so a GM can pick a detail or two out of the written description to use as an achor for the bargain. Stronger patrons may desire fewer things, but are always interested in _control_ - over a character's body or their dreams - and such things are a lot harder to quantify in a single moment. GMs can always ask players if they would agree to a "favor owed" arrangement, so they can put their character in a difficult situation they would have otherwise avoided later on.
 
-```Example```
+### Example Bargain
+A player wants to bargain with the following Patron:
+`The little light that breaks through the overbearing canopy above creates a jagged set of shadows all around the woodland floor. Each umbral tendril, spindly and black, creeps a bit closer to you, and fawns at your own shadow tenderly.`
 
 ### Managing Locations & Scenes
 
