@@ -44,9 +44,14 @@ As noted above, players will rely on Cache Locations (any location represented b
 Generally, the maximum number of dice a player could hope to bargain for should scale from low to high with the number on the card (aces are low, up to kings). Similarly, the price a player will need to pay should scale in a similar fashion, along with the ambiguity of the ask. Low powered Fae will have fewer resources to offer the players, but will also have immediate and clean-cut desires themselves. Weaker creatures _want_ things a lot more than powerful ones, so a GM can pick a detail or two out of the written description to use as an achor for the bargain. Stronger patrons may desire fewer things, but are always interested in _control_ - over a character's body or their dreams - and such things are a lot harder to quantify in a single moment. GMs can always ask players if they would agree to a "favor owed" arrangement, so they can put their character in a difficult situation they would have otherwise avoided later on.
 
 ### Example Bargain
-A player wants to bargain with the following Patron:
+A player wants to bargain with the the following Patron (3 of Wands):
+<br><br>
 `The little light that breaks through the overbearing canopy above creates a jagged set of shadows all around the woodland floor. Each umbral tendril, spindly and black, creeps a bit closer to you, and fawns at your own shadow tenderly.`
-
+<br><br>
+For this example, assume the level of dread is right in the middle (PG13). The GM has lattitude to guide this interaction to whatever degree they want. A GM could insist that the shadow wants one specific thing - the character's shadow - and the amount of ownership or type of ownership is up for debate. Conversely, the GM can let the player guide the bargain, and simply note the patron has a deep interest in the character's shadow. For this example, the GM suggests the patron wants to inhabit the shadow the character is casting, and offers 5 dice from the Cache Pool if the player will [BIND] "Something lurking in my shadow." to [WHAT I HAVE].
+<br><br>
+The player is free to bargain, of course, and perhaps they want to sweeten the deal to earn more dice. They offer to give up their entire shadow to the Patron - full ownership - in exchange for 10 dice. The implications of this trade are up to the GM: maybe the character's shadow will try to become stronger by eating other shadows, maybe it will attempt to control the character's body by wrapping around it, or maybe it will hamper the character's movement by weighing more than a normal shadow does. The GM considers all the trouble this could cause and decides it is worth the deal. They give the player 10 dice from the Cache Pool, and the player must [BIND] "A shadow that is no longer my own." to [WHAT I HAVE].
+<br><br>
 ### Managing Locations & Scenes
 
 _A thing worth having is a thing worth cheating for._
