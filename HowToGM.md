@@ -26,6 +26,8 @@ When seeting these difficulties, think of them in terms of **percentage of a tot
 
 When engaging with players in an opposed conflict, the GM will roll dice as normal, however the GM also counts a **Becoming result** as a Good result. When engaged in opposed conflict with the GM, the players' dice do not funnel into the GM's dice pool until the conflict is over. While rolling back and forth, players should hold their spent dice in a pile separate from their own dice pools **and** separate from the GM's spent dice.
 <br><br>
+Keep in mind - if players' actions, even if uncertain, would not add to the narrative stakes, **they probably don't need to roll any dice**. Similarly, if multiple players could work together to avoid risk, they probably don't need to roll dice.
+<br><br>
 After the GM uses any dice from their pool, for opposed or unopposed conflicts, they must roll the dice and send them to the next appropriate pool...
 <br><br>
 ### Where Dice Go to Die
@@ -55,5 +57,13 @@ For this example, assume the level of dread is right in the middle (PG13). The G
 The player is free to bargain, of course, and perhaps they want to sweeten the deal to earn more dice. They offer to give up their entire shadow to the Patron - full ownership - in exchange for 10 dice. The implications of this trade are up to the GM: maybe the character's shadow will try to become stronger by eating other shadows, maybe it will attempt to control the character's body by wrapping around it, or maybe it will hamper the character's movement by weighing more than a normal shadow does. The GM considers all the trouble this could cause and decides it is worth the deal. They give the player 10 dice from the Cache Pool, and the player must `[BIND]` "A shadow that is no longer my own." to `[WHAT I HAVE]`.
 <br><br>
 ### Managing Locations & Scenes
+Just as GMs have space to improvise and color Patrons according to the desired tone, they have that same leeway to shape Locations to evoke the right _vibe_. Location cards, just like Patron cards, are intentionally vague. They have a few major hooks to entice the players, but leave a lot of room for the GM to add their own stakes as well.
+<br><br>
+It's fine to read the card as-written, or if the GM prefers to add a bit of flourish when introducing the Location, but the biggest opportunity to add personality to a Location is during the Scenes that take place there. GMs should let players ask questions and do a bit of risk-free extrapolation before committing to a Scene. Once the players have decided where and how they want to explore within a Location, the GM can work to fill in the details and provide some narrative stakes that match the agreed-upon level of dread.
+<br><br>
+Additionally, each Location **must** have one Scene be designated as a _defining moment_, during which the amount of dice each player antes will become important. If one of the player-submitted Scenes feels like the right one make a defining moment, so much the better, but if none feel like the right fit then the GM can create an appropriate Scene for the players.
+<br><br>
+### Share the Spotlight
+
 
 _A thing worth having is a thing worth cheating for._
