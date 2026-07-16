@@ -1,7 +1,10 @@
 # Facilitating Play
 _Become the Deep Woods; everyone does eventually..._
 
-## Decide on a Level of Dread
+## Read the Other Sections First
+This instructional section will have details that are important to running a game of DD1D, but it won't have _all_ the details. Explore the other instructions (click on the other tabs) for more information about resolving conflict, editting a character sheet, and setting up the Map and Patron Decks. If you ever encounter a rule that doesn't make sense, or a situation that doesn't have a clear rule, just do your best to provide reasonable guidance that keeps the game moving and maintains the fun.
+<br><br>
+### Decide on a Level of Dread
 Since DD1D is relatively rules-lite, and very centered around creating atmosphere, it will be particularly important for the GM to improvise and guide play based mostly on the _vibes_. To get this right, players and GMs should sit down before play begins and decide what kind of experience they're hoping to share. The materials provided by DD1D are intentionally vague, and provide a template that rests somewhere between Eldrtich Horror and Grimm-Brothers' Fantasy. It's up to the GM to add texture on top of the words on the page (or screen) to move things in an agreeable direction. 
 <br><br>
 If players want a dark, dreadful experience, then the GM should lean into cruel ironies and no-win situations, as Fae of oral tradition are wont to engage in. If players want a lighter experience, then instead the GM can look to works like Over the Garden Wall, or Hildafolk for appropriate inspiration.
@@ -64,6 +67,8 @@ It's fine to read the card as-written, or if the GM prefers to add a bit of flou
 Additionally, each Location **must** have one Scene be designated as a _defining moment_, during which the amount of dice each player antes will become important. If one of the player-submitted Scenes feels like the right one make a defining moment, so much the better, but if none feel like the right fit then the GM can create an appropriate Scene for the players.
 <br><br>
 ### Share the Spotlight
-
-
+As often as possible, the GM should allow players to invent details about the Deep Woods and their characters' experiences. GMs should ask players what their characters see and smell, hear and taste. If a character runs into trouble, the GM can inform the player of the level of danger, then see if the player can invent the outcome. If the player present something mostly in line with the GM's expectations, the GM can then use those details to `[BIND]` something to the character when they've suffered dearly.
+<br><br>
+A healthy back-and-forth between players and GM will make the world feel richer, but of course the GM has the last say. The rules are lite and the vibes are more important than the instructions, so GMs should let players know they're just doing their best to create a fun and gripping experience by interpreting the system in a reasonable way, regardless of what the rules require. Everyone should do their best to collaborate and contribute to a good time.
+<br><br>
 _A thing worth having is a thing worth cheating for._
